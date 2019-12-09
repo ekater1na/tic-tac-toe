@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 GH-Pages: https://ekater1na.github.io/tic-tac-toe/
 
+=======
+>>>>>>> parent of b588eb0... refactor; refactor
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
